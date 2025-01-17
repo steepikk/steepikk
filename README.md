@@ -18,7 +18,8 @@
   <h3> DB related skills</h3>
     <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-</div>
+</div>    
+
 
 
 📫 The best way to reach me: [Telegram](https://t.me/stepanduss)
